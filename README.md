@@ -21,7 +21,7 @@
 
 ## How to Run
 
-1. Open the [link]() in your web browser.
+1. Open the [link](https://dhruvgarg001.github.io/Main-In-Rain-Animation/) in your web browser.
 2. Enjoy the animation of the man standing in the rain!
 
 ## Purpose
