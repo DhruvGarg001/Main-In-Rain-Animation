@@ -21,8 +21,10 @@
 
 ## How to Run
 
-1. Open the [link](https://dhruvgarg001.github.io/Main-In-Rain-Animation/) in your web browser.
+1. Open the [link](https://maninrain.netlify.app/) in your web browser.
 2. Enjoy the animation of the man standing in the rain!
+
+To run it locally, simply download the files into a folder and open index.html
 
 ## Purpose
 
@@ -34,3 +36,4 @@ For more information or inquiries, feel free to contact me:
 
 - **Name:** Dhruv Garg
 - **Email:** dhruvgarg2025@gmail.com
+
